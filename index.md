@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Fast Food Reviews
+### James Dyer & Simon Ie
 
-You can use the [editor on GitHub](https://github.com/Arch199/fast-food-adventure/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## KFC
+Our journey began at the American staple KFC, which was doomed to fail from the outset by my challenge to eat 12 Wicked Wings, which I historically don't enjoy. James, however, went with a Zinger Box, a slightly more serviceable order.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Zinger burger very nice 👍 - Chicken gave a nice crunch and was overall better than expected; would recommend. Sauce lives up to its name with a satisfying but reserved zing.
+Wings were juicy but not exactly “wicked”.
 
-### Markdown
+A group of young lads proudly touting open bottles of beer gave the establishment a lively and inviting atmosphere. The remains of lost chicken strewn across the floor only added to the charm.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Hungry Jack's
+Big Jack derivative of Big Mac - suffers from a similar issue in terms of texture and mouthfeel. <insert an entire paragraph describing the mouthfeel in detail>
 
-```markdown
-Syntax highlighted code block
+Very underwhelming - pales in comparison in Maccas. Chips were dry, almost stale-tasting. The “Big Jack” is a proud and disappointing inferior rip-off of the Big Mac. Hungry Jack's seems to be leaning into being just “worse Maccas”, which is an interesting marketing direction, to say the least. In the past, it seems Hungry Jack's made more of an effort to differentiate itself, but now we can say with confidence that “the burgers are *certainly not* better at Hungry Jack's”.
 
-# Header 1
-## Header 2
-### Header 3
+## Maccas
+Makes Hungry Jack's look pretty bad. Bun is better, chips are fresher (not even considering the gravy chips, which are in their own league) and crunchier with a softer inside and the meat overall has a nicer taste with a better bite.
 
-- Bulleted
-- List
+Before this review adventure, the difference in quality between Hungry Jack's and Maccas was not really apparent to either of us. James hadn’t been in years and Simon was an occasional patron of the venue who had set his hopes on the mantra that “the burgers are better”. However, after this experience we can assert that there is a clear difference in quality, at least when they directly compete with mainstays such as the quarter pounder and Big Mac.
 
-1. Numbered
-2. List
+## Taco Bell
+Surplus of sauces was a nice surprise. However, they failed to deliver in terms of spiciness and overall depth of flavour. Portion sizes were on the small side, but reasonable for the price. The main issue for us is that you can essentially make the same thing with a Taco kit from Woolies for much cheaper. 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Arch199/fast-food-adventure/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Final Ranking
+1. Maccas
+2. Taco Bell
+3. KFC
+4. Hungry Jack’s
