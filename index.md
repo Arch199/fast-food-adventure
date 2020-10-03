@@ -21,6 +21,7 @@ Before this review adventure, the difference in quality between Hungry Jack's an
 ## Taco Bell
 The surplus of sauces was a nice surprise. However, they failed to deliver in terms of spiciness and overall depth of flavour. Portion sizes were on the small side - which was made apparent by the juxtaposition of the gigantic bag holding our 2 meals -  but are reasonable for the price. The main issue for us is that you can essentially make the same thing with a Taco kit from Woolies for much cheaper. That being said, If there were more Taco Bells, we could see the appeal of an Australian Mexican meal on a night out or just for lunch. What would make me go back is the appealing interior of the restaurant, decked out with trendy yellow couches, which beats the other establishments’ decor by many miles.
 
+
 ## Final Ranking
 1. Maccas
 2. Taco Bell
